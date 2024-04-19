@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I'm Stiven Viedman, a software engineer from :sunny: Colombia
+I'm Stiven Viedman from :sunny: Colombia. I'm a software engineer :man_technologist: developing apps with React, Node.js, and Golang and shipping them with Kubernetes and the cloud.
 
-I'm a full-stack developer :man_technologist: specializing in React, Node.js, and Golang.
+> "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better." Edsger W. Dijkstra
